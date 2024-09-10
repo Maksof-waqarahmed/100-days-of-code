@@ -1,0 +1,70 @@
+Filter Method:
+
+1. Write a function that filters out all even numbers from an array.
+2. Given an array of strings, filter out the strings that contain more than 5 characters.
+3. Filter out all objects in an array that do not have a specific property.
+4. Write a function to filter out all the prime numbers from an array.
+5. Filter out all strings in an array that start with a specific letter.
+
+Map Method:
+6. Use .map to convert an array of numbers to their squares.
+7. Given an array of strings, use .map to convert all strings to uppercase.
+8. Use .map to extract a specific property from an array of objects.
+9. Convert an array of strings to an array of their lengths using .map.
+10. Use .map to add a new property to each object in an array of objects.
+
+Reduce Method:
+11. Use .reduce to sum all numbers in an array.
+12. Use .reduce to flatten a nested array.
+13. Write a function that uses .reduce to count the occurrences of each element in an array.
+14. Use .reduce to find the maximum value in an array of numbers.
+15. Write a function that uses .reduce to group objects by a property.
+
+Splice Method:
+16. Use .splice to remove the third element from an array.
+17. Use .splice to replace the last element in an array with a new value.
+18. Use .splice to insert a new element at the second position in an array.
+19. Write a function that uses .splice to remove every second element from an array.
+20. Use .splice to remove all elements from an array starting from a specific index.
+
+For Loops:
+21. Write a for loop to print all elements of an array.
+22. Write a for loop to print all keys and values of an object.
+23. Write a for loop to find the sum of all numbers in an array.
+24. Write a nested for loop to find the Cartesian product of two arrays.
+25. Use a for loop to reverse the elements of an array.
+
+Ternary Operators:
+26. Use a ternary operator to check if a number is positive, negative, or zero.
+27. Use a ternary operator to return a default value if a variable is null or undefined.
+28. Write a function that uses a ternary operator to determine if a number is even or odd.
+29. Use a ternary operator to assign a grade based on a score.
+30. Use a ternary operator to toggle a boolean value.
+
+Array Methods (General):
+31. Use .forEach to log each element of an array.
+32. Use .find to find the first element in an array that meets a condition.
+33. Use .every to check if all elements in an array are greater than a certain number.
+34. Use .some to check if any element in an array is a string.
+35. Use .sort to sort an array of numbers in ascending order.
+
+String Methods:
+36. Write a function to capitalize the first letter of each word in a string.
+37. Use .split and .join to reverse the words in a sentence.
+38. Write a function to check if a string is a palindrome.
+39. Use .replace to replace all occurrences of a word in a string.
+40. Use .includes to check if a string contains a specific substring.
+
+Object Methods:
+41. Write a function to clone an object using Object.assign.
+42. Use Object.keys to get all keys of an object.
+43. Use Object.values to get all values of an object.
+44. Use Object.entries to convert an object to an array of key-value pairs.
+45. Write a function to merge two objects.
+
+Functional Programming:
+46. Write a function that returns a new array with only unique values from the input array.
+47. Write a function that composes two functions (function composition).
+48. Write a function that curries another function (function currying).
+49. Write a function that memoizes another function.
+50. Write a function that creates a deep clone of an object using recursion.

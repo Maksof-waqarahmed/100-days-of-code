@@ -1,0 +1,29 @@
+1) Given an array of integers, count the number of even numbers. Use the most appropriate method or loop to solve this problem.
+2) Given an array of numbers, create a new array where each value is doubled. Determine the most suitable method to use.
+3) Given an array of integers, find the first negative number in the array. If there is no negative number, return null.
+4) Given an array of integers, sum the numbers until the first negative number is encountered. If there are no negative numbers, sum all the numbers.
+5) Given an array of strings, check if a specific string is present in the array. Return true if it is present, otherwise return false.
+6) Given an array of user names, create an array of greeting messages for each user. For example, if the input 
+7) Given an array of numbers, calculate the sum of all elements using a while loop.
+8) Given an array of strings, concatenate all the strings into a single string.
+9) Given an array with duplicate elements, create a new array with duplicates removed.
+10) Write a function that repeatedly performs an action until a condition is met. For example, generate a random number between 1 and 10 until you get a 7.
+11) Given an array of numbers, find the maximum value in the array.
+12) Given an array of numbers, extract all even numbers and calculate their sum.
+13) Given an array of any type (numbers, strings, etc.), reverse the order of elements in the array.
+14) Given an array of numbers and a specific value, count how many times that value appears in the array.
+15) Given an array of numbers, create a new array where each value is squared.
+16) Given an array of numbers and a specific value, find all indices where the value appears.
+17) Given an array of objects where each object has a name property, create an array containing just the names.
+18) Given an array of numbers, find the average of all the numbers in the array.
+19) Given an array of strings, create an object that counts the frequency of each string.
+20) Given an array containing nested arrays, flatten it into a single array.
+21) Given an array of numbers and a threshold value, remove all elements that are greater than the threshold.
+22) Given an array of objects where each object has a type property, group the objects by type.
+24) Given an array of items with different categories, count how many items there are in each category.
+24) Given several arrays, merge them into a single array.
+25) You want to loop through an array of tasks and stop when you encounter a task marked as "completed."
+26) Write a do...while loop to prompt the user to enter a number and continue prompting until the user enters a number greater than 10.
+27) Write a do...while loop that continues to sum up user-entered numbers until the user inputs a negative number. After exiting the loop, display the total sum.
+
+
